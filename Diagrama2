@@ -1,6 +1,6 @@
 # README.md
 Diagrama
-```mermaid
+```memaid
 classDiagram
     Animal <|-- Duck
     Animal <|-- Fish
